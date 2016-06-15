@@ -1,4 +1,4 @@
-# Rocket Chat - Simple Rest Client Android with okhttp
+# Rocket Chat - Simple Rest Client with okhttp
 
 
 Installation
